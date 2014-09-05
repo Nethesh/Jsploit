@@ -1,0 +1,22 @@
+{
+  "name": "Jsploit",
+  "version": "1.0.0",
+  "description": "This is a better framework for exploits using the power of V8 Script ",
+  "main": "jsploit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/P0cL4bs/Jsploit.git"
+  },
+  "author": "P0cL4bs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/P0cL4bs/Jsploit/issues"
+  },
+  "homepage": "https://github.com/P0cL4bs/Jsploit",
+  "dependencies": {
+    "prompt": "^0.2.13"
+  }
+}
