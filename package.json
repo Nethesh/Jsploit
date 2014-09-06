@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/P0cL4bs/Jsploit",
   "dependencies": {
-    "prompt": "^0.2.13"
+    "shotgun": "^7.5.8"
   }
 }
